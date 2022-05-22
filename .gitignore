@@ -1,0 +1,11 @@
+front/node_modules
+./front/node_modules
+
+contracts/node_modules
+./contracts/node_modules
+contracts/artifacts
+./contracts/artifacts
+contracts/cache
+./contracts/cache
+contracts/.env
+./contracts/.env
