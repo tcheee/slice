@@ -13,3 +13,6 @@
 
 **Put money into the pool**
 <img width="1437" alt="image" src="https://user-images.githubusercontent.com/45823872/170269724-6f029097-c8dd-402a-8575-1c43972b9ad4.png">
+
+
+Link to video: https://showcase.ethglobal.com/hackmoney2022/slice-rketk
